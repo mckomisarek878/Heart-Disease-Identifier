@@ -38,7 +38,7 @@ The workflow covers feature engineering, model selection, hyperparameter tuning,
 
 2. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy scikit-learn pandas tensorflow matplotlib
    ```
 
 3. Place `heart.csv` in the working directory.  
@@ -105,12 +105,5 @@ The workflow covers feature engineering, model selection, hyperparameter tuning,
 - **pandas**, **numpy**, **scikit-learn**
 - **TensorFlow / Keras**
 - **Matplotlib**
-
----
-
-## 📜 License
-
-This project is released under the MIT License.  
-See [LICENSE](LICENSE) for more details.
 
 ---
